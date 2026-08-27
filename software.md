@@ -21,8 +21,8 @@ Open-source tools for spinal cord MRI preprocessing, analysis, and quantificatio
 | [SC Template](https://github.com/neuropoly/template ) | Framework for creating unbiased MRI templates of the spinal cord |  |
 | [PAM50](https://github.com/spinalcordtoolbox/PAM50 ) | T1w/T2w/T2*w template with 15WM/3GM bilateral parcels. Aligned with MNI ICBM152 template (Collins et al., 1999) | [De Leener et al., Neuroimage 2018](https://doi.org/10.1016/j.neuroimage.2017.10.041) |
 | [AMU7T](https://github.com/spinalcordtoolbox/template-AMU7T) | T2*w/qT1 template with 15 WM + 8 GM bilateral and 4 inter-hemispheric parcels. | [Le Troter et al., 2023](https://archive.ismrm.org/2023/0569.html) |
-| [PAMhisto](https://github.com/spinalcordtoolbox/PAM50/histology) | WM template from high resolution electron microscopy | [Duval et al., Neuroimage 2019](https://doi.org/10.1016/j.neuroimage.2018.10.033) |
-| [Ex-vivo template](https://github.com/spinalcordtoolbox/exvivo-template ) | 9.4T T2 template from 13 ex-vivo specimens | [Gros et al., 2020](https://archive.ismrm.org/2020/1171.html) |
+| [PAMhisto]( https://github.com/spinalcordtoolbox/PAM50/tree/master/histology) | WM template from high resolution electron microscopy | [Duval et al., Neuroimage 2019](https://doi.org/10.1016/j.neuroimage.2018.10.033) |
+| [Ex-vivo template](https://github.com/spinalcordtoolbox/exvivo-template) | 9.4T T2 template from 13 ex-vivo specimens | [Gros et al., 2020](https://archive.ismrm.org/2020/1171.html) |
 | **Synthetic SC MRI** |  |  |
 | [SynSpine](https://www.nitrc.org/projects/synspine/ ) | DL model to generate SC synthetic data with varying atrophy levels | [Ganzetti et al., Front. Neuroinform. 2025](https://doi.org/10.3389/fninf.2025.1649440) |
 | [LesionSCynth](https://github.com/rickymwalsh/LesionSCynth) | SC MS lesion synthesis method to improve DL segmentation model training | [Walsh et al., Imaging Neuroscience 2025](https://doi.org/10.1162/IMAG.a.1029) |
